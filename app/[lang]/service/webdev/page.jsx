@@ -13,7 +13,7 @@ export async function generateMetadata({ params }) {
         "web development, e-commerce websites, CMS development, custom websites, e-learning platforms, social networking sites, CRM platforms, BrandRaize",
     },
     ar: {
-      title: "خدمات تطوير المواقع | براند رايز",
+      title: "خدمات تطوير المواقع | وصف للتسويق الإلكتروني",
       description:
         "براند رايز تقدم خدمات تطوير مواقع مبتكرة وقابلة للتوسع: التجارة الإلكترونية، أنظمة إدارة المحتوى، المواقع المخصصة، التعلم الإلكتروني، الشبكات الاجتماعية، ومنصات إدارة العملاء.",
       keywords:

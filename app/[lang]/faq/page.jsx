@@ -9,9 +9,9 @@ export async function generateMetadata({ params }) {
         "Find answers to the most common questions about our software services and solutions.",
     },
     ar: {
-      title: "الأسئلة المتكررة | براندرايز",
+      title: "الأسئلة المتكررة | وصف للتسويق الإلكتروني",
       description:
-        "اعثر على إجابات لأكثر الأسئلة شيوعًا حول خدمات وحلول براندرايز للبرمجيات.",
+        "اعثر على إجابات لأكثر الأسئلة شيوعًا حول خدمات وحلول وصف للتسويق الإلكتروني للبرمجيات.",
     },
   };
 
@@ -87,12 +87,12 @@ export default async function FAQs({ params }) {
 
   const faqsAr = [
     {
-      question: "ما هي براندرايز؟",
+      question: "ما هي وصف للتسويق الإلكتروني؟",
       answer:
-        "براندرايز هي شركة برمجيات مقرها في السعودية، تساعد الشركات حول العالم في التحول الرقمي وتطوير البرمجيات المخصصة.",
+        "وصف للتسويق الإلكتروني هي شركة برمجيات مقرها في السعودية، تساعد الشركات حول العالم في التحول الرقمي وتطوير البرمجيات المخصصة.",
     },
     {
-      question: "ما هي خبرة براندرايز؟",
+      question: "ما هي خبرة وصف للتسويق الإلكتروني؟",
       answer: "لدينا أكثر من ٥ سنوات من الخبرة في تقديم منتجات برمجية وحلول رقمية مؤثرة.",
     },
     {
@@ -136,7 +136,7 @@ export default async function FAQs({ params }) {
             dir={lang === "ar" ? "rtl" : "ltr"}
           >
             {lang === "ar"
-              ? "هنا ستجد إجابات لأكثر الأسئلة شيوعًا حول خدمات براندرايز للبرمجيات. إذا كان لديك أي أسئلة أخرى، لا تتردد في الاتصال بنا."
+              ? "هنا ستجد إجابات لأكثر الأسئلة شيوعًا حول خدمات وصف للتسويق الإلكتروني للبرمجيات. إذا كان لديك أي أسئلة أخرى، لا تتردد في الاتصال بنا."
               : "Here you can find answers to the most common questions about BrandRaize software services. If you have any other questions, feel free to contact us."}
           </p>
         </div>

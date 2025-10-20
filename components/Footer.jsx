@@ -19,7 +19,7 @@ export default function Footer({ lang }) {
   }
 
   const arabicText = {
-    companyName: "براندرايز",
+    companyName: "وصف للتسويق الإلكتروني",
     description:
       "من الفكرة إلى التنفيذ، نحول أفكارك إلى نجاح رقمي. مواقع، تطبيقات، وتقنية — كل ذلك ضمن حل ذكي متكامل.",
     companyTitle: "شركة",

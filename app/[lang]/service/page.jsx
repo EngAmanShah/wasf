@@ -13,7 +13,7 @@ export async function generateMetadata({ params }) {
         "BrandRaize services, web development, mobile app development, IT solutions, digital marketing, SEO, graphic design, business solutions, technology services",
     },
     ar: {
-      title: "خدماتنا | براند رايز",
+      title: "خدماتنا |  وصف للتسويق الإلكتروني",
       description:
         "استكشف خدمات براند رايز: تطوير المواقع، تطوير تطبيقات الجوال، حلول تكنولوجيا المعلومات، التسويق الرقمي، التصميم الجرافيكي والمزيد — لدعم نجاح عملك.",
       keywords:
