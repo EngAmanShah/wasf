@@ -35,7 +35,7 @@ export default function Footer({ lang }) {
   };
 
   const englishText = {
-    companyName: "BrandRaize",
+    companyName: "WASF digital Marketing",
     description:
       "From code to conversion, we turn your ideas into digital success.Web, apps, IT — all under one smart solution.",
     companyTitle: "Company",
@@ -166,7 +166,7 @@ export default function Footer({ lang }) {
     {/* Phone number (clickable) */}
     <h6 className="mb-3">
       <a href="tel:+966551981751" className="text-decoration-none text-black">
-       +966551981751
+       966551981751
       </a>
     </h6>
 

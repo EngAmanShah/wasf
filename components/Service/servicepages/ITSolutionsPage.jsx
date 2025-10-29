@@ -14,7 +14,7 @@ export default function ITSolutionsPage({ params }) {
   const t = {
     en: {
       heroTitle: "Innovative IT Solutions for Your Business",
-      heroDescription: "BrandRaize delivers end-to-end IT solutions tailored to optimize your operations and security.",
+      heroDescription: "WASF digital Marketing delivers end-to-end IT solutions tailored to optimize your operations and security.",
       services: [
         { title: "Cloud Solutions", description: "Scalable and secure cloud infrastructure." },
         { title: "IT Infrastructure", description: "Comprehensive IT infrastructure setup and management." },

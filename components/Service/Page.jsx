@@ -15,7 +15,7 @@ const { lang } = React.use(params);// Get lang from URL: /en/page or /ar/page
   const translations = {
     en: {
       heroTitle: "Our Services",
-      heroDesc: "At BrandRaize, we're passionate about creating innovative digital solutions that help businesses thrive in the modern world.",
+      heroDesc: "At WASF digital Marketing, we're passionate about creating innovative digital solutions that help businesses thrive in the modern world.",
       explore: "Explore Services",
       learnMore: "Learn More",
       services: [
@@ -45,7 +45,7 @@ const { lang } = React.use(params);// Get lang from URL: /en/page or /ar/page
     },
     ar: {
       heroTitle: "خدماتنا",
-      heroDesc: "في BrandRaize، نحن شغوفون بابتكار حلول رقمية تساعد الشركات على الازدهار في العصر الحديث.",
+      heroDesc: "في WASF digital Marketing، نحن شغوفون بابتكار حلول رقمية تساعد الشركات على الازدهار في العصر الحديث.",
       explore: "استكشف الخدمات",
       learnMore: "اعرف المزيد",
       services: [

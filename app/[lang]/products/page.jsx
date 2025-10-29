@@ -10,9 +10,9 @@ export async function generateMetadata({ params }) {
 
   const metas = {
     en: {
-      title: "Our Services - Brandraize",
+      title: "Our Services - WASF digital Marketing",
       description:
-        "Discover Brandraize's full range of creative and digital services! From digital marketing to application development, we deliver innovative solutions that elevate your brand and drive measurable results.",
+        "Discover WASF digital Marketing's full range of creative and digital services! From digital marketing to application development, we deliver innovative solutions that elevate your brand and drive measurable results.",
     },
     ar: {
       title: "خدماتنا - براندرايز",

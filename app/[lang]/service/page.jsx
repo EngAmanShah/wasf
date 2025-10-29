@@ -6,18 +6,18 @@ export async function generateMetadata({ params }) {
 
   const translations = {
     en: {
-      title: "Our Services | BrandRaize",
+      title: "Our Services | WASF digital Marketing",
       description:
-        "Explore BrandRaize services: Web Development, Mobile App Development, IT Solutions, Digital Marketing, Graphic Design, and more — tailored to help your business thrive.",
+        "Explore WASF digital Marketing services: Web Development, Mobile App Development, IT Solutions, Digital Marketing, Graphic Design, and more — tailored to help your business thrive.",
       keywords:
-        "BrandRaize services, web development, mobile app development, IT solutions, digital marketing, SEO, graphic design, business solutions, technology services",
+        "WASF digital Marketing services, web development, mobile app development, IT solutions, digital marketing, SEO, graphic design, business solutions, technology services",
     },
     ar: {
       title: "خدماتنا |  وصف للتسويق الإلكتروني",
       description:
-        "استكشف خدمات براند رايز: تطوير المواقع، تطوير تطبيقات الجوال، حلول تكنولوجيا المعلومات، التسويق الرقمي، التصميم الجرافيكي والمزيد — لدعم نجاح عملك.",
+        "استكشف خدمات وصف للتسويق الإلكتروني: تطوير المواقع، تطوير تطبيقات الجوال، حلول تكنولوجيا المعلومات، التسويق الرقمي، التصميم الجرافيكي والمزيد — لدعم نجاح عملك.",
       keywords:
-        "خدمات براند رايز, تطوير المواقع, تطوير تطبيقات الجوال, حلول تكنولوجيا المعلومات, التسويق الرقمي, تحسين محركات البحث, التصميم الجرافيكي, حلول الأعمال, خدمات تقنية",
+        "خدمات وصف للتسويق الإلكتروني, تطوير المواقع, تطوير تطبيقات الجوال, حلول تكنولوجيا المعلومات, التسويق الرقمي, تحسين محركات البحث, التصميم الجرافيكي, حلول الأعمال, خدمات تقنية",
     },
   };
 
@@ -31,7 +31,7 @@ export async function generateMetadata({ params }) {
       title: t.title,
       description: t.description,
       url: `https://brandraize.com/services/${lang}`,
-      siteName: "BrandRaize",
+      siteName: "WASF digital Marketing",
       images: [
         {
           url: "https://brandraize.com/images/services-banner.jpg",

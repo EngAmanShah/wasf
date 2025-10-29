@@ -9,8 +9,8 @@ import { IoSearch } from "react-icons/io5";
 import styles from "./blog.module.css";
 
 const translations = {
-  en: { heading: "BrandRaize Software Insights",
-     intro: "Welcome to the BrandRaize blog — your go-to hub for the latest in software development, tech trends, and innovative solutions. Dive into expert articles, coding tutorials, and product updates crafted to elevate your software projects. Stay ahead with deep dives, industry news, and actionable insights from our development team. Whether you're a software engineer, tech enthusiast, or product manager, BrandRaize has you covered.", 
+  en: { heading: "WASF Software Insights",
+     intro: "Welcome to the WASF blog — your go-to hub for the latest in software development, tech trends, and innovative solutions. Dive into expert articles, coding tutorials, and product updates crafted to elevate your software projects. Stay ahead with deep dives, industry news, and actionable insights from our development team. Whether you're a software engineer, tech enthusiast, or product manager, WASF has you covered.", 
     searchPlaceholder: "Search for articles, tutorials, or news", 
     noArticles: "No articles available", 
     noResults: "No articles found matching your query", 

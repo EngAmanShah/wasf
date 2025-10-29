@@ -4,11 +4,11 @@ import BlogClient from "./BlogClient";
 
 const metas = {
   en: {
-    title: "BrandRaize | Digital Marketing & Brand Growth Experts",
+    title: "WASF | Digital Marketing & Brand Growth Experts",
     description:
-      "Boost your business with BrandRaize — experts in digital marketing, social media growth, paid ads, Amazon brand expansion, and global brand visibility. Let's raise your brand together.",
+      "Boost your business with WASF — experts in digital marketing, social media growth, paid ads, Amazon brand expansion, and global brand visibility. Let's raise your brand together.",
     keywords:
-      "digital marketing, brand growth, social media management, paid ads, Amazon marketing, online branding, business growth, BrandRaize",
+      "digital marketing, brand growth, social media management, paid ads, Amazon marketing, online branding, business growth, WASF",
   },
   ar: {
     title: "وصف للتسويق الإلكتروني | خبراء التسويق الرقمي ونمو العلامات التجارية",
@@ -29,10 +29,10 @@ export async function generateMetadata({ params }) {
     description: t.description,
     keywords: t.keywords,
     alternates: {
-      canonical: `https://brandraize.com/${lang}/blog`,
+      canonical: `https://WASF.com/${lang}/blog`,
       languages: {
-        en: "https://brandraize.com/en/blog",
-        ar: "https://brandraize.com/ar/blog",
+        en: "https://WASF.com/en/blog",
+        ar: "https://WASF.com/ar/blog",
       },
     },
   };

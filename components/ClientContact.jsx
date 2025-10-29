@@ -106,10 +106,11 @@ Reach out today and start building something extraordinary with us!`,
   ar: {
     heroTitle: "تواصل معنا",
     heroSubtitle: `يسعدنا سماعك — سواء كان سؤالاً، ملاحظات، أو مجرد تحية.
-فريقنا ملتزم بدعمك في كل خطوة على الطريق.
-من الردود السريعة إلى الإرشادات التفصيلية، نحن هنا من أجلك.
-دعنا نتعاون ونحول أفكارك إلى واقع.
-تواصل معنا اليوم وابدأ ببناء شيء رائع معنا!`,
+    فريقنا ملتزم بدعمك في كل خطوة على الطريق.
+    من الردود السريعة إلى الإرشادات التفصيلية، نحن هنا من أجلك.
+    دعنا نتعاون ونحول أفكارك إلى واقع.
+    تواصل معنا اليوم وابدأ ببناء شيء رائع معنا!`,
+
     contactInfo: [
       {
         icon: <FaMapMarkerAlt size={28} />,
@@ -171,7 +172,7 @@ content[lang] || content.ar;
         </div>
       </section>
 
-      {/* 📌 Contact Info Section with Canvas Grid */}
+      {/*  Contact Info Section with Canvas Grid */}
       <section
         style={{
           position: "relative",
@@ -234,21 +235,14 @@ content[lang] || content.ar;
           padding: "4rem 1.5rem",
         }}
       >
-        
-          {/* Why Choose Us card */}
-        
-
-          {/* Contact Form card */}
+  
+        {/* Contact Form card */}
           <div className="mirror-card justify-content-center">
            
            
             <ContactForm lang={lang} />
           </div>
-           
-
-          
-     
-
+  
         {/* Styles */}
         <style jsx>{`
           .contact-grid {

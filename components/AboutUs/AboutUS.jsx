@@ -79,13 +79,13 @@ export default function AboutUs({ params }) {
   // Translations
   const content = {
     en: {
-      heroTitle: "About BrandRaize",
+      heroTitle: "About WASF Digital Marketing",
       heroSubtitle:
         "Elevating brands above the noise with creativity, technology, and strategy.",
       heroExtra:
-        "We believe the future of business lies at the intersection of innovation and creativity. From startups to enterprises, BrandRaize helps brands redefine how they connect, grow, and succeed in a digital-first world.",
+        "We believe the future of business lies at the intersection of innovation and creativity. From startups to enterprises, WASF Digital Marketing helps brands redefine how they connect, grow, and succeed in a digital-first world.",
       history:
-        "BrandRaize was created to help brands grow stronger and shine brighter. Founded by Engr. Aman Shah — a multi-skilled professional in web and mobile development, graphic design, digital marketing, and IT solutions — BrandRaize is all about turning creative ideas into real results. We believe every brand has the power to rise, combining creativity, strategy, and technology to build modern websites, mobile apps, brand identities, and marketing campaigns that truly work. Our mission is simple — to raise your brand to its full potential. Whether you’re starting out or already established, BrandRaize is your trusted partner for clarity, creativity, and growth at every stage of your journey.",
+        "WASF Digital Marketing was created to help brands grow stronger and shine brighter. Founded by Engr. Aman Shah — a multi-skilled professional in web and mobile development, graphic design, digital marketing, and IT solutions — WASF Digital Marketing is all about turning creative ideas into real results. We believe every brand has the power to rise, combining creativity, strategy, and technology to build modern websites, mobile apps, brand identities, and marketing campaigns that truly work. Our mission is simple — to raise your brand to its full potential. Whether you’re starting out or already established, WASF Digital Marketing is your trusted partner for clarity, creativity, and growth at every stage of your journey.",
       servicesTitle: "Our Services",
       storyHeading: "Our Story",
       buttons: {

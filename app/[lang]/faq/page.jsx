@@ -4,7 +4,7 @@ export async function generateMetadata({ params }) {
 
   const metas = {
     en: {
-      title: "Frequently Asked Questions | BrandRaize",
+      title: "Frequently Asked Questions | WASF",
       description:
         "Find answers to the most common questions about our software services and solutions.",
     },
@@ -49,12 +49,12 @@ export default async function FAQs({ params }) {
 
   const faqsEn = [
     {
-      question: "What is BrandRaize?",
+      question: "What is WASF?",
       answer:
-        "BrandRaize is a software company based in Saudi Arabia, helping businesses worldwide with digital transformation and custom software solutions.",
+        "WASF is a software company based in Saudi Arabia, helping businesses worldwide with digital transformation and custom software solutions.",
     },
     {
-      question: "How much experience does BrandRaize have?",
+      question: "How much experience does WASF have?",
       answer:
         "We have over 5 years of experience delivering impactful software products and digital services.",
     },
@@ -137,7 +137,7 @@ export default async function FAQs({ params }) {
           >
             {lang === "ar"
               ? "هنا ستجد إجابات لأكثر الأسئلة شيوعًا حول خدمات وصف للتسويق الإلكتروني للبرمجيات. إذا كان لديك أي أسئلة أخرى، لا تتردد في الاتصال بنا."
-              : "Here you can find answers to the most common questions about BrandRaize software services. If you have any other questions, feel free to contact us."}
+              : "Here you can find answers to the most common questions about WASF software services. If you have any other questions, feel free to contact us."}
           </p>
         </div>
       </div>

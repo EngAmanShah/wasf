@@ -92,9 +92,9 @@ export default function Market({ lang }) {
 
   const translations = {
     en: {
-      headerTitle: "Why is BrandRaize a Market Leader?",
+      headerTitle: "Why is WASF digital Marketing a Market Leader?",
       headerDesc:
-        "BrandRaize Company provides innovative solutions in programming websites, applications, and digital marketing, making us your first choice in the industry.",
+        "WASF digital Marketing Company provides innovative solutions in programming websites, applications, and digital marketing, making us your first choice in the industry.",
       tabs: [
         {
           title: "Professional Developer Team",
@@ -112,12 +112,12 @@ export default function Market({ lang }) {
             "Our marketing strategies are data-driven and designed to maximize growth and ROI for your business.",
         },
       ],
-      cta: "Find out more about BrandRaize",
+      cta: "Find out more about WASF digital Marketing",
     },
     ar: {
       headerTitle: "لماذا تُعتبر براند رايز رائدة في السوق؟",
       headerDesc:
-        "تقدم شركة BrandRaize حلولًا مبتكرة في برمجة المواقع والتطبيقات والتسويق الرقمي، مما يجعلنا خيارك الأول في هذا المجال.",
+        "تقدم شركة WASF digital Marketing حلولًا مبتكرة في برمجة المواقع والتطبيقات والتسويق الرقمي، مما يجعلنا خيارك الأول في هذا المجال.",
       tabs: [
         {
           title: "فريق مطورين محترف",

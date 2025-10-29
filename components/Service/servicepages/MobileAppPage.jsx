@@ -13,7 +13,7 @@ export default function MobileAppPage({ params }) {
   const t = {
     en: {
       heroTitle: "Transform Your Ideas Into Stunning Mobile Applications",
-      heroDescription: "BrandRaize builds high-performing, secure, and scalable mobile apps tailored for your business growth.",
+      heroDescription: "WASF digital Marketing builds high-performing, secure, and scalable mobile apps tailored for your business growth.",
       services: [
         { title: "iOS App Development", description: "Custom iPhone and iPad applications with modern UI/UX." },
         { title: "Android App Development", description: "Scalable Android apps optimized for performance." },

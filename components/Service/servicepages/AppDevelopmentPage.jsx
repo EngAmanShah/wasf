@@ -14,7 +14,7 @@ export default function AppDevelopmentPage({ params }) {
   const t = {
     en: {
       heroTitle: "Exceptional App Development Solutions",
-      heroDescription: "BrandRaize delivers innovative mobile and web applications to transform your business.",
+      heroDescription: "WASF digital Marketing delivers innovative mobile and web applications to transform your business.",
       services: [
         { title: "Native Mobile App Development", description: "iOS & Android native apps tailored to your needs." },
         { title: "Cross-Platform App Development", description: "React Native & Flutter apps for multiple platforms." },

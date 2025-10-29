@@ -8,11 +8,11 @@ export async function generateMetadata({ params }) {
 
   const translations = {
     en: {
-      title: "Digital Marketing Services | BrandRaize",
+      title: "Digital Marketing Services | WASF",
       description:
-        "Boost your online presence with BrandRaize’s digital marketing services: SEO, PPC, social media, influencer, and video marketing strategies that deliver measurable results.",
+        "Boost your online presence with WASF’s digital marketing services: SEO, PPC, social media, influencer, and video marketing strategies that deliver measurable results.",
       keywords:
-        "digital marketing, SEO, PPC, social media marketing, influencer marketing, email campaigns, video marketing, BrandRaize",
+        "digital marketing, SEO, PPC, social media marketing, influencer marketing, email campaigns, video marketing, WASF",
     },
     ar: {
       title: "خدمات التسويق الرقمي | براند رايز",
@@ -33,7 +33,7 @@ export async function generateMetadata({ params }) {
       title: t.title,
       description: t.description,
       url: `https://brandraize.com/digital-marketing/${lang}`,
-      siteName: "BrandRaize",
+      siteName: "WASF digital Marketing",
       images: [
         {
           url: "https://brandraize.com/images/digital-marketing-banner.jpg",

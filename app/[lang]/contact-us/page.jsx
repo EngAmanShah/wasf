@@ -5,9 +5,9 @@ export async function generateMetadata({ params }) {
 
   const metaContent = {
     en: {
-      title: "BrandRaize ",
+      title: "WASF ",
       description:
-        "Get in touch with BrandRaize for questions, feedback, or just to say hello. We're here to help!",
+        "Get in touch with WASF for questions, feedback, or just to say hello. We're here to help!",
     },
     ar: {
       title: "تواصل معنا ",

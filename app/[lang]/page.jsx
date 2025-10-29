@@ -17,9 +17,9 @@ export default async function Home({ params }) {
     en: {
       heroTitle: "Elevating Brands Above the Noise",
       heroDescription:
-        "Brandraize is a creative digital agency led by Engr. Aman Shah. We specialize in digital marketing, web & app development, branding, and IT solutions to help businesses grow with measurable impact.",
+        "WASF digital Marketing is a creative digital agency led by Engr. Aman Shah. We specialize in digital marketing, web & app development, branding, and IT solutions to help businesses grow with measurable impact.",
       shopNow: "Get a Free Consultation",
-      whyChooseTitle: "Why Choose Brandraize",
+      whyChooseTitle: "Why Choose WASF digital Marketing",
       whyChooseDescription:
         "We deliver results-driven solutions across industries, helping businesses achieve sustainable growth and brand recognition.",
       features: [

@@ -14,7 +14,7 @@ export default function WebDevelopmentPage({ params }) {
   const t = {
     en: {
       heroTitle: "We Create Exceptionally Creative Web Designs",
-      heroDescription: "BrandRaize knows your high standards and loves to meet them ingeniously.",
+      heroDescription: "WASF digital Marketing knows your high standards and loves to meet them ingeniously.",
       services: [
         { title: "E-commerce Website Development", description: "Custom solutions for online stores." },
         { title: "CMS/Custom Website Development", description: "Tailored content management systems and custom-built websites." },

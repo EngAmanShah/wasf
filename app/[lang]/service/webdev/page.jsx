@@ -6,18 +6,18 @@ export async function generateMetadata({ params }) {
 
   const translations = {
     en: {
-      title: "Web Development Services | BrandRaize",
+      title: "Web Development Services | WASF digital Marketing",
       description:
-        "BrandRaize delivers creative and scalable web development services: e-commerce, CMS, custom websites, e-learning, social platforms, and CRM solutions.",
+        "WASF digital Marketing delivers creative and scalable web development services: e-commerce, CMS, custom websites, e-learning, social platforms, and CRM solutions.",
       keywords:
-        "web development, e-commerce websites, CMS development, custom websites, e-learning platforms, social networking sites, CRM platforms, BrandRaize",
+        "web development, e-commerce websites, CMS development, custom websites, e-learning platforms, social networking sites, CRM platforms, WASF digital Marketing",
     },
     ar: {
       title: "خدمات تطوير المواقع | وصف للتسويق الإلكتروني",
       description:
-        "براند رايز تقدم خدمات تطوير مواقع مبتكرة وقابلة للتوسع: التجارة الإلكترونية، أنظمة إدارة المحتوى، المواقع المخصصة، التعلم الإلكتروني، الشبكات الاجتماعية، ومنصات إدارة العملاء.",
+        "وصف للتسويق الإلكتروني تقدم خدمات تطوير مواقع مبتكرة وقابلة للتوسع: التجارة الإلكترونية، أنظمة إدارة المحتوى، المواقع المخصصة، التعلم الإلكتروني، الشبكات الاجتماعية، ومنصات إدارة العملاء.",
       keywords:
-        "تطوير مواقع, مواقع التجارة الإلكترونية, تطوير أنظمة إدارة المحتوى, مواقع مخصصة, منصات التعلم الإلكتروني, الشبكات الاجتماعية, منصات CRM, براند رايز",
+        "تطوير مواقع, مواقع التجارة الإلكترونية, تطوير أنظمة إدارة المحتوى, مواقع مخصصة, منصات التعلم الإلكتروني, الشبكات الاجتماعية, منصات CRM, وصف للتسويق الإلكتروني",
     },
   };
 
@@ -31,7 +31,7 @@ export async function generateMetadata({ params }) {
       title: t.title,
       description: t.description,
       url: `https://brandraize.com/web-development/${lang}`,
-      siteName: "BrandRaize",
+      siteName: "WASF digital Marketing",
       images: [
         {
           url: "https://brandraize.com/images/web-development-banner.jpg",

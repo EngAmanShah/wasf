@@ -79,7 +79,7 @@ export default function WhyChooseUs({ lang }) {
 
   const translations = {
     en: {
-      title: "Why Choose BrandRaize?",
+      title: "Why Choose WASF digital Marketing?",
       description:
         "We provide innovative and tailored solutions across technology, marketing, and design, helping your business achieve measurable growth.",
       features: [

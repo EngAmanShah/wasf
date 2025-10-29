@@ -6,14 +6,14 @@ export async function generateMetadata({ params }) {
 
   const content = {
     en: {
-      title: "About Brandraize | Creativity, Technology & Strategy",
+      title: "About WASF digital Marketing | Creativity, Technology & Strategy",
       description:
-        "Elevating brands above the noise with creativity, technology, and strategy. Learn about Brandraize's mission, story, and services.",
+        "WASF digital Marketing is a creative agency led by experts in marketing. We specialize in digital marketing, website and app development, brand identity design, and IT solutions to help businesses grow and make a real impact.",
     },
     ar: {
-      title: "عن Brandraize | الإبداع، التكنولوجيا والاستراتيجية",
+      title: "عن WASF digital Marketing | الإبداع، التكنولوجيا والاستراتيجية",
       description:
-        "ddd",
+        "وصف للتسويق الإلكتروني هي وكالة إبداعية يقودها مبدعون في مجال التسويق. نحن متخصصون في التسويق الرقمي، تطوير المواقع والتطبيقات، تصميم الهوية البصرية، وحلول تكنولوجيا المعلومات لمساعدة الشركات على النمو وتحقيق تأثير ملموس.",
     },
   };
 
@@ -25,13 +25,13 @@ export async function generateMetadata({ params }) {
     openGraph: {
       title: t.title,
       description: t.description,
-      url: `https://brandraize.com/${lang}/aboutus`,
+      url: `https://WASF digital Marketing.com/${lang}/aboutus`,
       images: [
         {
           url: "/aman.jpeg",
           width: 1200,
           height: 630,
-          alt: "About Brandraize",
+          alt: "About WASF digital Marketing",
         },
       ],
     },

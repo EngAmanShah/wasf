@@ -8,9 +8,9 @@ export async function generateMetadata({ params }) {
   
   const translations = {
     en: {
-      title: "App Development Services | BrandRaize",
+      title: "App Development Services | WASF",
       description: "Exceptional mobile and web app development solutions. iOS, Android, React Native, and enterprise apps tailored to grow your business.",
-      keywords: "app development, mobile apps, iOS development, Android apps, React Native, Flutter, enterprise apps, API integration, BrandRaize",
+      keywords: "app development, mobile apps, iOS development, Android apps, React Native, Flutter, enterprise apps, API integration, WASF",
     },
     ar: {
       title: "خدمات تطوير التطبيقات | براند رايز",
@@ -29,7 +29,7 @@ export async function generateMetadata({ params }) {
       title: t.title,
       description: t.description,
       url: `https://brandraize.com/app-development/${lang}`,
-      siteName: "BrandRaize",
+      siteName: "WASF digital Marketing",
       images: [
         {
           url: "https://brandraize.com/images/app-development-banner.jpg",

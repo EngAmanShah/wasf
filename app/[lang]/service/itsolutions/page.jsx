@@ -6,11 +6,11 @@ export async function generateMetadata({ params }) {
 
   const translations = {
     en: {
-      title: "IT Solutions Services | BrandRaize",
+      title: "IT Solutions Services | WASF digital Marketing",
       description:
-        "Innovative IT solutions by BrandRaize: Cloud, Cybersecurity, Infrastructure, Networking, Software Support, and Database Management to grow your business.",
+        "Innovative IT solutions by WASF digital Marketing: Cloud, Cybersecurity, Infrastructure, Networking, Software Support, and Database Management to grow your business.",
       keywords:
-        "IT solutions, cloud services, cybersecurity, IT infrastructure, network management, software support, database management, BrandRaize",
+        "IT solutions, cloud services, cybersecurity, IT infrastructure, network management, software support, database management, WASF digital Marketing",
     },
     ar: {
       title: "خدمات حلول تكنولوجيا المعلومات | براند رايز",
@@ -31,7 +31,7 @@ export async function generateMetadata({ params }) {
       title: t.title,
       description: t.description,
       url: `https://brandraize.com/it-solutions/${lang}`,
-      siteName: "BrandRaize",
+      siteName: "WASF digital Marketing",
       images: [
         {
           url: "https://brandraize.com/images/it-solutions-banner.jpg",

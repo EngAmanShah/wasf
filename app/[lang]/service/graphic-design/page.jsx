@@ -8,11 +8,11 @@ export async function generateMetadata({ params }) {
 
   const translations = {
     en: {
-      title: "Graphic Design Services | BrandRaize",
+      title: "Graphic Design Services | WASF digital Marketing",
       description:
-        "Bring your brand to life with stunning graphic design services by BrandRaize. From logos and branding to UI/UX, print, and creative concepts.",
+        "Bring your brand to life with stunning graphic design services by WASF digital Marketing. From logos and branding to UI/UX, print, and creative concepts.",
       keywords:
-        "graphic design, logo design, brand identity, UI/UX design, print design, illustrations, creative concept development, BrandRaize",
+        "graphic design, logo design, brand identity, UI/UX design, print design, illustrations, creative concept development, WASF digital Marketing",
     },
     ar: {
       title: "خدمات التصميم الجرافيكي | براند رايز",
@@ -33,7 +33,7 @@ export async function generateMetadata({ params }) {
       title: t.title,
       description: t.description,
       url: `https://brandraize.com/graphic-design/${lang}`,
-      siteName: "BrandRaize",
+      siteName: "WASF digital Marketing",
       images: [
         {
           url: "https://brandraize.com/images/graphic-design-banner.jpg",

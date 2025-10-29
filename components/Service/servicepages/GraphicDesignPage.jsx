@@ -13,7 +13,7 @@ export default function GraphicDesignPage({ params }) {
   const t = {
     en: {
       heroTitle: "Bring Your Brand to Life with Stunning Graphic Designs",
-      heroDescription: "BrandRaize delivers creative and impactful visuals that make your business unforgettable.",
+      heroDescription: "WASF digital Marketing delivers creative and impactful visuals that make your business unforgettable.",
       services: [
         { title: "Logo Design", description: "Unique and professional logos that define your brand identity." },
         { title: "Brand Identity Design", description: "Complete branding solutions including typography and color palettes." },

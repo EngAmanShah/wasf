@@ -13,7 +13,7 @@ export default function DigitalMarketingPage({ params }) {
   const t = {
     en: {
       heroTitle: "Grow Your Business With Powerful Digital Marketing Strategies",
-      heroDescription: "BrandRaize delivers creative campaigns and measurable results that boost your online presence.",
+      heroDescription: "WASF digital Marketing delivers creative campaigns and measurable results that boost your online presence.",
       services: [
         { title: "Social Media Marketing", description: "Engaging campaigns across platforms like Facebook, Instagram, and LinkedIn." },
         { title: "SEO Optimization", description: "Improve your rankings and visibility on search engines." },
