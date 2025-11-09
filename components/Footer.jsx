@@ -35,7 +35,7 @@ export default function Footer({ lang }) {
   };
 
   const englishText = {
-    companyName: "WASF digital Marketing",
+    companyName: "Dermo Saudia digital Marketing",
     description:
       "From code to conversion, we turn your ideas into digital success.Web, apps, IT — all under one smart solution.",
     companyTitle: "Company",

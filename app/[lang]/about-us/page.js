@@ -6,14 +6,14 @@ export async function generateMetadata({ params }) {
 
   const content = {
     en: {
-      title: "About WASF digital Marketing | Creativity, Technology & Strategy",
+      title: "About Dermo Saudia digital Marketing | Creativity, Technology & Strategy",
       description:
-        "WASF digital Marketing is a creative agency led by experts in marketing. We specialize in digital marketing, website and app development, brand identity design, and IT solutions to help businesses grow and make a real impact.",
+        "Dermo Saudia digital Marketing is a creative agency led by experts in marketing. We specialize in digital marketing, website and app development, brand identity design, and IT solutions to help businesses grow and make a real impact.",
     },
     ar: {
-      title: "عن WASF digital Marketing | الإبداع، التكنولوجيا والاستراتيجية",
+      title: "عن Dermo Saudia digital Marketing | الإبداع، التكنولوجيا والاستراتيجية",
       description:
-        "وصف للتسويق الإلكتروني هي وكالة إبداعية يقودها مبدعون في مجال التسويق. نحن متخصصون في التسويق الرقمي، تطوير المواقع والتطبيقات، تصميم الهوية البصرية، وحلول تكنولوجيا المعلومات لمساعدة الشركات على النمو وتحقيق تأثير ملموس.",
+        "ديرمو السعودية للتسويق الإلكتروني هي وكالة إبداعية يقودها مبدعون في مجال التسويق. نحن متخصصون في التسويق الرقمي، تطوير المواقع والتطبيقات، تصميم الهوية البصرية، وحلول تكنولوجيا المعلومات لمساعدة الشركات على النمو وتحقيق تأثير ملموس.",
     },
   };
 
@@ -25,13 +25,13 @@ export async function generateMetadata({ params }) {
     openGraph: {
       title: t.title,
       description: t.description,
-      url: `https://WASF digital Marketing.com/${lang}/aboutus`,
+      url: `https://Dermo Saudia digital Marketing.com/${lang}/aboutus`,
       images: [
         {
           url: "/aman.jpeg",
           width: 1200,
           height: 630,
-          alt: "About WASF digital Marketing",
+          alt: "About Dermo Saudia digital Marketing",
         },
       ],
     },

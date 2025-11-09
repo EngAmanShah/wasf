@@ -17,9 +17,9 @@ export default async function Home({ params }) {
     en: {
       heroTitle: "Elevating Brands Above the Noise",
       heroDescription:
-        "WASF digital Marketing is a creative digital agency led by Engr. Aman Shah. We specialize in digital marketing, web & app development, branding, and IT solutions to help businesses grow with measurable impact.",
+        "Dermo Saudia digital Marketing is a creative digital agency led by Engr. Aman Shah. We specialize in digital marketing, web & app development, branding, and IT solutions to help businesses grow with measurable impact.",
       shopNow: "Get a Free Consultation",
-      whyChooseTitle: "Why Choose WASF digital Marketing",
+      whyChooseTitle: "Why Choose Dermo Saudia digital Marketing",
       whyChooseDescription:
         "We deliver results-driven solutions across industries, helping businesses achieve sustainable growth and brand recognition.",
       features: [
@@ -90,11 +90,11 @@ export default async function Home({ params }) {
     ar: {
       heroButton: "تواصل معنا",
       // heroTitle: "نرتقي بالعلامات التجارية فوق الضوضاء",
-      heroTitle:"وصف للتسويق الإلكتروني",
+      heroTitle:"ديرمو السعودية للتسويق الإلكتروني",
       heroDescription:
-      "وصف للتسويق الإلكتروني هي وكالة إبداعية بقيادة مبدعون في مجال التسويق   نحن متخصصون في التسويق الرقمي، تطوير المواقع والتطبيقات، تصميم الهوية البصرية، وحلول تكنولوجيا المعلومات لمساعدة الشركات على النمو وتحقيق تأثير ملموس.",
+      "ديرمو السعودية للتسويق الإلكتروني هي وكالة إبداعية بقيادة مبدعون في مجال التسويق   نحن متخصصون في التسويق الرقمي، تطوير المواقع والتطبيقات، تصميم الهوية البصرية، وحلول تكنولوجيا المعلومات لمساعدة الشركات على النمو وتحقيق تأثير ملموس.",
      shopNow: "احصل على استشارة مجانية",
-      whyChooseTitle: "وصف للتسويق الإلكتروني",
+      whyChooseTitle: "ديرمو السعودية للتسويق الإلكتروني",
       whyChooseDescription:
         "نقدم حلولاً قائمة على النتائج عبر مختلف الصناعات لمساعدة الشركات على تحقيق نمو مستدام وبناء هوية قوية.",
       features: [

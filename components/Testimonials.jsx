@@ -13,32 +13,32 @@ const testimonialsContent = {
     {
       name: "Sophia Turner",
       quote:
-        "WASF digital Marketing transformed our online presence! Within just three months, our social media engagement tripled, and we started receiving inquiries from international clients.",
+        "Dermo Saudia digital Marketing transformed our online presence! Within just three months, our social media engagement tripled, and we started receiving inquiries from international clients.",
     },
     {
       name: "Emily Carter",
       quote:
-        "The WASF digital Marketing team built a complete marketing strategy that took our brand visibility to the next level. Their ad campaigns are creative, targeted, and deliver real results.",
+        "The Dermo Saudia digital Marketing team built a complete marketing strategy that took our brand visibility to the next level. Their ad campaigns are creative, targeted, and deliver real results.",
     },
     {
       name: "Olivia Bennett",
       quote:
-        "Thanks to WASF digital Marketing, our e-commerce sales have grown consistently. Their expertise in paid advertising and content marketing has been a game changer for our business.",
+        "Thanks to Dermo Saudia digital Marketing, our e-commerce sales have grown consistently. Their expertise in paid advertising and content marketing has been a game changer for our business.",
     },
     {
       name: "Ava Martinez",
       quote:
-        "Working with WASF digital Marketing has been one of the best decisions for our company. They truly understand brand storytelling and helped us build a strong digital identity.",
+        "Working with Dermo Saudia digital Marketing has been one of the best decisions for our company. They truly understand brand storytelling and helped us build a strong digital identity.",
     },
     {
       name: "Mia Robinson",
       quote:
-        "From social media management to SEO, WASF digital Marketing handles everything professionally. Our website traffic has doubled, and our followers are now highly engaged.",
+        "From social media management to SEO, Dermo Saudia digital Marketing handles everything professionally. Our website traffic has doubled, and our followers are now highly engaged.",
     },
     {
       name: "Isabella Harris",
       quote:
-        "The WASF digital Marketing team is highly skilled and results-driven. They helped us launch targeted campaigns that significantly increased our conversions and brand awareness.",
+        "The Dermo Saudia digital Marketing team is highly skilled and results-driven. They helped us launch targeted campaigns that significantly increased our conversions and brand awareness.",
     },
   ],
   ar: [
