@@ -36,9 +36,9 @@ const metas = {
       "Dermo Saudia digital Marketing digital Marketing is a creative digital agency. We design, build, and market digital experiences that drive growth, credibility, and innovation. From web and mobile app development to digital marketing, graphic design, and IT solutions — we empower brands to stand out and succeed.",
   },
   ar: {
-    title: "وصف للتسويق الإلكترونيء",
+    title: "ديرمو السعودية للتسويق الإلكترونيء",
     description:
-      "وصف للتسويق الإلكتروني هي وكالة إبداعية يقودها . نصمم ونبني ونُسوّق تجارب رقمية مبتكرة تعزز النمو والمصداقية والابتكار. من تطوير المواقع والتطبيقات إلى التسويق الرقمي والتصميم الجرافيكي وحلول تكنولوجيا المعلومات — نساعد العلامات التجارية على التميز والنجاح.",
+      "ديرمو السعودية للتسويق الإلكتروني هي وكالة إبداعية يقودها . نصمم ونبني ونُسوّق تجارب رقمية مبتكرة تعزز النمو والمصداقية والابتكار. من تطوير المواقع والتطبيقات إلى التسويق الرقمي والتصميم الجرافيكي وحلول تكنولوجيا المعلومات — نساعد العلامات التجارية على التميز والنجاح.",
   },
 };
 
