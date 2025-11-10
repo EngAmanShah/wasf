@@ -6,11 +6,11 @@ export async function generateMetadata({ params }) {
 
   const translations = {
     en: {
-      title: "Mobile App Development Services | WASF digital Marketing",
+      title: "Mobile App Development Services | Dermo Saudia digital Marketing digital Marketing",
       description:
-        "Transform your ideas into stunning mobile applications with WASF digital Marketing. We build iOS, Android, and cross-platform apps with secure backends, seamless integration, and long-term support.",
+        "Transform your ideas into stunning mobile applications with Dermo Saudia digital Marketing digital Marketing. We build iOS, Android, and cross-platform apps with secure backends, seamless integration, and long-term support.",
       keywords:
-        "mobile app development, iOS apps, Android apps, cross-platform apps, React Native, Flutter, backend integration, app security, app maintenance, WASF digital Marketing",
+        "mobile app development, iOS apps, Android apps, cross-platform apps, React Native, Flutter, backend integration, app security, app maintenance, Dermo Saudia digital Marketing digital Marketing",
     },
     ar: {
       title: "خدمات تطوير تطبيقات الموبايل | براند رايز",
@@ -31,7 +31,7 @@ export async function generateMetadata({ params }) {
       title: t.title,
       description: t.description,
       url: `https://brandraize.com/mobile-app/${lang}`,
-      siteName: "WASF digital Marketing",
+      siteName: "Dermo Saudia digital Marketing digital Marketing",
       images: [
         {
           url: "https://brandraize.com/images/mobile-app-banner.jpg",

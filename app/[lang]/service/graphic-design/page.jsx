@@ -8,11 +8,11 @@ export async function generateMetadata({ params }) {
 
   const translations = {
     en: {
-      title: "Graphic Design Services | WASF digital Marketing",
+      title: "Graphic Design Services | Dermo Saudia digital Marketing digital Marketing",
       description:
-        "Bring your brand to life with stunning graphic design services by WASF digital Marketing. From logos and branding to UI/UX, print, and creative concepts.",
+        "Bring your brand to life with stunning graphic design services by Dermo Saudia digital Marketing digital Marketing. From logos and branding to UI/UX, print, and creative concepts.",
       keywords:
-        "graphic design, logo design, brand identity, UI/UX design, print design, illustrations, creative concept development, WASF digital Marketing",
+        "graphic design, logo design, brand identity, UI/UX design, print design, illustrations, creative concept development, Dermo Saudia digital Marketing digital Marketing",
     },
     ar: {
       title: "خدمات التصميم الجرافيكي | براند رايز",
@@ -33,7 +33,7 @@ export async function generateMetadata({ params }) {
       title: t.title,
       description: t.description,
       url: `https://brandraize.com/graphic-design/${lang}`,
-      siteName: "WASF digital Marketing",
+      siteName: "Dermo Saudia digital Marketing digital Marketing",
       images: [
         {
           url: "https://brandraize.com/images/graphic-design-banner.jpg",

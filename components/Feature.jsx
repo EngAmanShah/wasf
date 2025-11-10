@@ -79,7 +79,7 @@ export default function WhyChooseUs({ lang }) {
 
   const translations = {
     en: {
-      title: "Why Choose WASF digital Marketing?",
+      title: "Why Choose Dermo Saudia  digital Marketing?",
       description:
         "We provide innovative and tailored solutions across technology, marketing, and design, helping your business achieve measurable growth.",
       features: [
@@ -106,7 +106,7 @@ export default function WhyChooseUs({ lang }) {
       ],
     },
     ar: {
-      title: "لماذا تختار براند رايز؟",
+      title: "لماذا تختار ديرمو السعودية للتسويق الإلكتروني؟",
       description:
         "نحن نقدم حلولًا مبتكرة ومصممة خصيصًا في مجالات التكنولوجيا والتسويق والتصميم، لمساعدة عملك على تحقيق نمو قابل للقياس.",
       features: [

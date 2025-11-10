@@ -19,7 +19,7 @@ export default function Footer({ lang }) {
   }
 
   const arabicText = {
-    companyName: "وصف للتسويق الإلكتروني",
+    companyName: "ديرمو للتسويق الإلكتروني",
     description:
       "من الفكرة إلى التنفيذ، نحول أفكارك إلى نجاح رقمي. مواقع، تطبيقات، وتقنية — كل ذلك ضمن حل ذكي متكامل.",
     companyTitle: "شركة",

@@ -10,14 +10,14 @@ export async function generateMetadata({ params }) {
 
   const metas = {
     en: {
-      title: "Our Services - WASF digital Marketing",
+      title: "Our Services - Dermo Saudia digital Marketing",
       description:
-        "Discover WASF digital Marketing's full range of creative and digital services! From digital marketing to application development, we deliver innovative solutions that elevate your brand and drive measurable results.",
+        "Discover Dermo Saudia digital Marketing's full range of creative and digital services! From digital marketing to application development, we deliver innovative solutions that elevate your brand and drive measurable results.",
     },
     ar: {
-      title: "خدماتنا - براندرايز",
+      title: "خدماتنا - ديرمو",
       description:
-        "استعرض مجموعة براندرايز الكاملة من الخدمات الرقمية والإبداعية! من التسويق الرقمي إلى تطوير التطبيقات، نقدم حلولًا مبتكرة ترتقي بعلامتك التجارية وتحقق نتائج ملموسة.",
+        "استعرض مجموعة ديرمو الكاملة من الخدمات الرقمية والإبداعية! من التسويق الرقمي إلى تطوير التطبيقات، نقدم حلولًا مبتكرة ترتقي بعلامتك التجارية وتحقق نتائج ملموسة.",
     },
   };
 

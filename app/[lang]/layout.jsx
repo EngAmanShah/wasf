@@ -31,14 +31,14 @@ export async function generateMetadata({ params }) {
 
 const metas = {
   en: {
-    title: "WASF digital Marketing",
+    title: "Dermo Saudia digital Marketing digital Marketing",
     description:
-      "WASF digital Marketing is a creative digital agency. We design, build, and market digital experiences that drive growth, credibility, and innovation. From web and mobile app development to digital marketing, graphic design, and IT solutions — we empower brands to stand out and succeed.",
+      "Dermo Saudia digital Marketing digital Marketing is a creative digital agency. We design, build, and market digital experiences that drive growth, credibility, and innovation. From web and mobile app development to digital marketing, graphic design, and IT solutions — we empower brands to stand out and succeed.",
   },
   ar: {
     title: "وصف للتسويق الإلكترونيء",
     description:
-      "وصف للتسويق الإلكتروني هي وكالة إبداعية يقودها المهندس أمان شاه. نصمم ونبني ونُسوّق تجارب رقمية مبتكرة تعزز النمو والمصداقية والابتكار. من تطوير المواقع والتطبيقات إلى التسويق الرقمي والتصميم الجرافيكي وحلول تكنولوجيا المعلومات — نساعد العلامات التجارية على التميز والنجاح.",
+      "وصف للتسويق الإلكتروني هي وكالة إبداعية يقودها . نصمم ونبني ونُسوّق تجارب رقمية مبتكرة تعزز النمو والمصداقية والابتكار. من تطوير المواقع والتطبيقات إلى التسويق الرقمي والتصميم الجرافيكي وحلول تكنولوجيا المعلومات — نساعد العلامات التجارية على التميز والنجاح.",
   },
 };
 

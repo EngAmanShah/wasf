@@ -8,12 +8,12 @@ export async function generateMetadata({ params }) {
   
   const translations = {
     en: {
-      title: "App Development Services | WASF",
+      title: "App Development Services | Dermo Saudia digital Marketing",
       description: "Exceptional mobile and web app development solutions. iOS, Android, React Native, and enterprise apps tailored to grow your business.",
-      keywords: "app development, mobile apps, iOS development, Android apps, React Native, Flutter, enterprise apps, API integration, WASF",
+      keywords: "app development, mobile apps, iOS development, Android apps, React Native, Flutter, enterprise apps, API integration, Dermo Saudia ",
     },
     ar: {
-      title: "خدمات تطوير التطبيقات | براند رايز",
+      title: "خدمات تطوير التطبيقات |  ديرمو",
       description: "حلول تطوير تطبيقات ويب وجوال استثنائية. تطبيقات iOS و Android و React Native و Flutter لتطوير أعمالك.",
       keywords: "تطوير تطبيقات, تطبيقات الجوال, تطوير iOS, تطوير Android, React Native, Flutter, تطبيقات المؤسسات, تكامل API, براند رايز",
     },
@@ -29,7 +29,7 @@ export async function generateMetadata({ params }) {
       title: t.title,
       description: t.description,
       url: `https://brandraize.com/app-development/${lang}`,
-      siteName: "WASF digital Marketing",
+      siteName: "Dermo Saudia  digital Marketing",
       images: [
         {
           url: "https://brandraize.com/images/app-development-banner.jpg",

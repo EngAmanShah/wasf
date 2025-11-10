@@ -6,11 +6,11 @@ export async function generateMetadata({ params }) {
 
   const translations = {
     en: {
-      title: "Web Development Services | WASF digital Marketing",
+      title: "Web Development Services | Dermo Saudia  digital Marketing",
       description:
-        "WASF digital Marketing delivers creative and scalable web development services: e-commerce, CMS, custom websites, e-learning, social platforms, and CRM solutions.",
+        "Dermo Saudia  digital Marketing delivers creative and scalable web development services: e-commerce, CMS, custom websites, e-learning, social platforms, and CRM solutions.",
       keywords:
-        "web development, e-commerce websites, CMS development, custom websites, e-learning platforms, social networking sites, CRM platforms, WASF digital Marketing",
+        "web development, e-commerce websites, CMS development, custom websites, e-learning platforms, social networking sites, CRM platforms, Dermo Saudia  digital Marketing",
     },
     ar: {
       title: "خدمات تطوير المواقع | وصف للتسويق الإلكتروني",
@@ -31,7 +31,7 @@ export async function generateMetadata({ params }) {
       title: t.title,
       description: t.description,
       url: `https://brandraize.com/web-development/${lang}`,
-      siteName: "WASF digital Marketing",
+      siteName: "Dermo Saudia  digital Marketing",
       images: [
         {
           url: "https://brandraize.com/images/web-development-banner.jpg",

@@ -82,7 +82,7 @@ export default function Team({ lang }) {
     en: {
       heading: "Empowering Businesses with Innovative Technology",
       description:
-        "At WASF digital Marketing, we are a dynamic team of passionate software developers, designers, and technology experts dedicated to crafting innovative digital solutions. With over a decade of experience, we've helped businesses across various industries transform their digital presence and streamline their operations.",
+        "At Dermo Saudia  digital Marketing, we are a dynamic team of passionate software developers, designers, and technology experts dedicated to crafting innovative digital solutions. With over a decade of experience, we've helped businesses across various industries transform their digital presence and streamline their operations.",
       stats: [
         { value: "40+", label: "Projects Delivered", text: "Successfully completed projects across multiple industries." },
         { value: "15+", label: "Team Members", text: "Dedicated professionals driving innovation and results." },

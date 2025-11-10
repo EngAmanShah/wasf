@@ -6,11 +6,11 @@ export async function generateMetadata({ params }) {
 
   const translations = {
     en: {
-      title: "IT Solutions Services | WASF digital Marketing",
+      title: "IT Solutions Services | Dermo Saudia digital Marketing digital Marketing",
       description:
-        "Innovative IT solutions by WASF digital Marketing: Cloud, Cybersecurity, Infrastructure, Networking, Software Support, and Database Management to grow your business.",
+        "Innovative IT solutions by Dermo Saudia digital Marketing digital Marketing: Cloud, Cybersecurity, Infrastructure, Networking, Software Support, and Database Management to grow your business.",
       keywords:
-        "IT solutions, cloud services, cybersecurity, IT infrastructure, network management, software support, database management, WASF digital Marketing",
+        "IT solutions, cloud services, cybersecurity, IT infrastructure, network management, software support, database management, Dermo Saudia digital Marketing digital Marketing",
     },
     ar: {
       title: "خدمات حلول تكنولوجيا المعلومات | براند رايز",
@@ -31,7 +31,7 @@ export async function generateMetadata({ params }) {
       title: t.title,
       description: t.description,
       url: `https://brandraize.com/it-solutions/${lang}`,
-      siteName: "WASF digital Marketing",
+      siteName: "Dermo Saudia digital Marketing digital Marketing",
       images: [
         {
           url: "https://brandraize.com/images/it-solutions-banner.jpg",

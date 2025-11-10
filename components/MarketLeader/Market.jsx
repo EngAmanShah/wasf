@@ -92,7 +92,7 @@ export default function Market({ lang }) {
 
   const translations = {
     en: {
-      headerTitle: "Why is WASF digital Marketing a Market Leader?",
+      headerTitle: "Why is Dermo Saudi digital Marketing a Market Leader?",
       headerDesc:
         "WASF digital Marketing Company provides innovative solutions in programming websites, applications, and digital marketing, making us your first choice in the industry.",
       tabs: [
@@ -112,12 +112,12 @@ export default function Market({ lang }) {
             "Our marketing strategies are data-driven and designed to maximize growth and ROI for your business.",
         },
       ],
-      cta: "Find out more about WASF digital Marketing",
+      cta: "Find out more about Dermo Saudi digital Marketing",
     },
     ar: {
-      headerTitle: "لماذا تُعتبر براند رايز رائدة في السوق؟",
+      headerTitle: "لماذا تُعتبر ديرمو السعودية  رائدة في السوق؟",
       headerDesc:
-        "تقدم شركة WASF digital Marketing حلولًا مبتكرة في برمجة المواقع والتطبيقات والتسويق الرقمي، مما يجعلنا خيارك الأول في هذا المجال.",
+        "تقدم شركة ديرمو السعودية حلولًا مبتكرة في برمجة المواقع والتطبيقات والتسويق الرقمي، مما يجعلنا خيارك الأول في هذا المجال.",
       tabs: [
         {
           title: "فريق مطورين محترف",
@@ -135,7 +135,7 @@ export default function Market({ lang }) {
             "استراتيجياتنا التسويقية قائمة على البيانات ومصممة لتعظيم النمو والعائد على الاستثمار لعملك.",
         },
       ],
-      cta: "اكتشف المزيد عن براند رايز",
+      cta: "اكتشف المزيد عن ديرمو السعودية ",
     },
   };
 
